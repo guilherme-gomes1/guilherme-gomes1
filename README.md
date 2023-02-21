@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Guilherme Gomes 👋
 
-- 🔭 I’m currently working on ...
 - 🌱 Estudando Flutter
-- 👯 I’m looking to collaborate on ...
 
 <div align="center">
   <a href="https://github.com/denis-araujo">
