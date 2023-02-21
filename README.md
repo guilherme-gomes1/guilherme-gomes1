@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Guilherme Gomes 👋
 
+- 📚 Sou graduando em sistemas de informação
 - 🌱 Estudando Flutter
 
 <div align="center">
